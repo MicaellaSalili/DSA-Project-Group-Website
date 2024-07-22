@@ -1,4 +1,4 @@
-# A Comparative Analysis of Different Search Algorithms
+# A Portfolio of DSA Programs made using HTML/CSS/JavaScript
 
 Running the program:
 
